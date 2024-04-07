@@ -1,0 +1,19 @@
+{
+  "name": "ntokozo-kubheka-280-node-file-io-javascript",
+  "description": "Node & File IO (280) For raw project instructions see: http://syllabus.africacode.net/projects/nodejs/file-io/",
+  "version": "1.0.0",
+  "main": "src/node_file_io.js",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimfar": "^3.0.2-omega",
+    "rimraf": "^5.0.5"
+  }
+}
